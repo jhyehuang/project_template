@@ -1,3 +1,3 @@
-module fil_bs_crawler
+module project_template
 
 go 1.18
